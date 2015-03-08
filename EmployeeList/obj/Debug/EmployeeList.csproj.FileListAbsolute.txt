@@ -1,0 +1,6 @@
+c:\users\ozerugafamily\documents\visual studio 2012\Projects\EmployeeList\EmployeeList\bin\Debug\EmployeeList.exe.config
+c:\users\ozerugafamily\documents\visual studio 2012\Projects\EmployeeList\EmployeeList\obj\Debug\EmployeeList.csprojResolveAssemblyReference.cache
+c:\users\ozerugafamily\documents\visual studio 2012\Projects\EmployeeList\EmployeeList\bin\Debug\EmployeeList.exe
+c:\users\ozerugafamily\documents\visual studio 2012\Projects\EmployeeList\EmployeeList\bin\Debug\EmployeeList.pdb
+c:\users\ozerugafamily\documents\visual studio 2012\Projects\EmployeeList\EmployeeList\obj\Debug\EmployeeList.exe
+c:\users\ozerugafamily\documents\visual studio 2012\Projects\EmployeeList\EmployeeList\obj\Debug\EmployeeList.pdb
